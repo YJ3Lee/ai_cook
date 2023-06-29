@@ -1,2 +1,4 @@
 secrets.toml
 venv
+.idea
+.ipynb_checkpoints
