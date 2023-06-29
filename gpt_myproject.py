@@ -57,7 +57,7 @@ def insert_database(person, menu_count,refrigerator, keywords, menu, buy_list,to
                                                      "total_money":total_money,
                                                      "prompt":prompt
                                                      }).execute()
-    print(response)
+    #print(response)
 
 
 
